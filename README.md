@@ -39,7 +39,7 @@
 ## Список гостей (пользователей)
 ![1660249789449](https://user-images.githubusercontent.com/12086860/184236601-2c8d94bf-105c-4b48-982c-65a6ed4f8c51.png)
 
-### Папка project-
+### Папка project-users
 
 **Какой навык улучшен?**
 1. Работа с хуком useEffect
@@ -55,7 +55,7 @@
 ## Конвертер валют
 ![1660250017350](https://user-images.githubusercontent.com/12086860/184237245-dd26fc7e-1b84-4490-b9cf-3d40a4ded550.png)
 
-### Папка project-
+### Папка project-currency-convertor
 
 **Какой навык улучшен?**
 1. Работа с хуком useEffect
